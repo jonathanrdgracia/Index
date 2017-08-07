@@ -3,6 +3,6 @@ $(document).ready(function(){
    
     $("#btn").click(
         function(){
-         alert(my)
+         alert(my);
         });
 });
